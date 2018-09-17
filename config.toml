@@ -1,6 +1,6 @@
 languageCode = "en-us"
 title = "Dev Log"
-baseURL = "localhost:1313"
+baseURL = "http://localhost:1313/"
 googleanalytics = ""
 disqusShortname = "ahnsv"
 
