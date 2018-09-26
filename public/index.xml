@@ -2,30 +2,20 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Dev Log</title>
-    <link>localhost:1313/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Dev Log</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 12 Sep 2018 10:30:15 +0900</lastBuildDate>
     
-	<atom:link href="localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Test</title>
-      <link>localhost:1313/post/test1/</link>
-      <pubDate>Wed, 12 Sep 2018 10:30:15 +0900</pubDate>
-      
-      <guid>localhost:1313/post/test1/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>마이크로소프트의 깃허브 인수가 개발자에게 희소식인 이유</title>
-      <link>localhost:1313/post/microsoft-acquire-github/</link>
+      <link>http://localhost:1313/post/microsoft-acquire-github/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>localhost:1313/post/microsoft-acquire-github/</guid>
+      <guid>http://localhost:1313/post/microsoft-acquire-github/</guid>
       <description>Table of Contents 어제자 기사에 따르면 현지 날짜로 6월 3일 마이크로소프트(MS)가 깃허브를 8조에 인수한다고 발표했습니다.
 많은 개발자 분들이 깃허브를 이용하시고, 이 소식을 깃허브 들어가서 알고 계실텐데요.
 요렇게 뜨죠:

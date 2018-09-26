@@ -1,9 +1,9 @@
 languageCode = "en-us"
 title = "Dev Log"
-baseURL = "http://localhost:1313/"
-googleanalytics = ""
+baseURL = "http://ahnsv.github.io/blog/"
+googleanalytics = "UA-124567194-1"
 disqusShortname = "ahnsv"
-
+publishDir = "docs"
 
 
 [languages]

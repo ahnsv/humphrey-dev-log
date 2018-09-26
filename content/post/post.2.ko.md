@@ -1,6 +1,7 @@
 ---
 title: "마이크로소프트의 깃허브 인수가 개발자에게 희소식인 이유"
 image: 'images/ms_github.png'
+date: 2018-06-05 20:38:26
 ---
 
 ## Table of Contents

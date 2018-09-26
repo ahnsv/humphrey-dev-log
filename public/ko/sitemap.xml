@@ -3,47 +3,47 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>localhost:1313/ko/categories/</loc>
+    <loc>http://localhost:1313/ko/categories/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="http://localhost:1313/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="#ZgotmplZ"
+                href="http://localhost:1313/ko/categories/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/ko/tags/</loc>
+    <loc>http://localhost:1313/ko/tags/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="http://localhost:1313/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="#ZgotmplZ"
+                href="http://localhost:1313/ko/tags/"
                 />
   </url>
   
   <url>
-    <loc>localhost:1313/ko/</loc>
+    <loc>http://localhost:1313/ko/</loc>
     <priority>0</priority>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="#ZgotmplZ"
+                href="http://localhost:1313/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ko"
-                href="#ZgotmplZ"
+                href="http://localhost:1313/ko/"
                 />
   </url>
   
