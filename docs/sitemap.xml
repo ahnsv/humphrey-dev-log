@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+	
+	<sitemap>
+	   	<loc>http://ahnsv.github.io/blog/ko/sitemap.xml</loc>
+		
+	   	<lastmod>2018-06-05T20:38:26+00:00</lastmod>
+		
+	</sitemap>
+	
+	<sitemap>
+	   	<loc>http://ahnsv.github.io/blog/en/sitemap.xml</loc>
+		
+	</sitemap>
+	
+</sitemapindex>

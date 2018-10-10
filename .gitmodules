@@ -1,0 +1,3 @@
+[submodule "themes/curttimson"]
+	path = themes/curttimson
+	url = https://github.com/curttimson/hugo-theme-massively.git

@@ -1,0 +1,15 @@
+languageCode = "en-us"
+title = "Dev Log"
+baseURL = "http://ahnsv.github.io/blog/"
+googleanalytics = "UA-124567194-1"
+disqusShortname = "ahnsv"
+publishDir = "docs"
+
+
+[languages]
+[languages.en]
+  languageName = "English"
+[languages.ko]
+  languageName = "Korean"
+  title = "데브 로그"
+theme = "curttimson"
